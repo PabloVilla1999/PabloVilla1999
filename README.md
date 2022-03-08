@@ -8,14 +8,15 @@ Aqui algunas cosas sobre mi:
 - Actualmente tengo 22 años.
 - Me gustan los video-juegos.
 - Estudie la preparatoria en la preparatoria Cobach y actualmente soy estudiante en el ITT.
+- Voy en 8vo semestre de mi carrera
 
 Aqui la tabla de mi horario de la universidad:
 
-| LUNES                 | Martes                | Miercoles             | Jueves                | Viernes               |
-| --------------------- | --------------------- | --------------------- | --------------------- | --------------------- |
-| Lenguajes de interfaz | Lenguajes de interfaz | Lenguajes de interfaz | Lenguajes de interfaz | Lenguajes de interfaz |
-| Taller S.O            | Taller S.O            | Taller S.O            | Taller S.O            | Taller S.O            |
-| Gestion de Proyectos  | Gestion de Proyectos  | Gestion de Proyectos  | Gestion de Proyectos  | Gestion de Proyectos  |
-| Programacion Web      | Programacion Web      | Programacion Web      | Programacion Web      | Programacion Web      |
-| Conmutacion de redes  | Conmutacion de redes  | Conmutacion de redes  | Conmutacion de redes  | Conmutacion de redes  |
-| Leng. y Aut. 2        | Leng. y Aut. 2        | Leng. y Aut. 2        | Leng. y Aut. 2        | Leng. y Aut. 2        |
+| LUNES                   | Martes                  | Miercoles               | Jueves                  | Viernes                 |
+| ----------------------  | ----------------------- | ----------------------- | ----------------------- | ----------------------- |
+| Administracion de redes | Administracion de redes | Administracion de redes | Administracion de redes |                         |
+| Inteligencia Artificial | Inteligencia Artificial | Inteligencia Artificial | Inteligencia Artificial |                         |
+| Taller Investigacion 2  | Taller Investigacion 2  | Taller Investigacion 2  | Taller Investigacion 2  |                         |
+| Sistemas Programables   | Sistemas Programables   | Sistemas Programables   | Sistemas Programables   |                         |
+|                         |                         |                         |                         |                         |
+| Temas Avanzados de DS   | Temas Avanzados de DS   | Temas Avanzados de DS   | Temas Avanzados de DS   | Temas Avanzados de DS   |
